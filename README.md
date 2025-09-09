@@ -1,2 +1,8 @@
 # Live-Kit-Nazar-
-In this i have created a simple Live voice agent with is capable of handling the distraction &amp; voice turn
+you need to create your own .env.local file add this below requirements
+DEEPGRAM_API_KEY=
+GOOGLE_API_KEY=
+CARTESIA_API_KEY=
+LIVEKIT_URL=
+LIVEKIT_API_KEY=
+LIVEKIT_API_SECRET=
